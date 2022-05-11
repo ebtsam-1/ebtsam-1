@@ -9,6 +9,10 @@
     <a href="https://www.linkedin.com/in/ebtsam-mamdouh-45b384138/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
+   <a href="mailto:ebtsammamdouh3@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
 </div>
 <br>
 <div id="header" align="center">
