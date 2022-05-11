@@ -9,7 +9,11 @@
     <a href="https://www.linkedin.com/in/ebtsam-mamdouh-45b384138/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
+</div>
+<br>
+<div id="header" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ebtsam-1&show_icons=true&theme=dracula">
+  <h2></h2>
 </div>
 <h3> :hammer_and_wrench: Languages & Tools:</h3>
 
@@ -28,10 +32,4 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" title="apache" **alt="apache" width="50" height="50"/>&nbsp;
         
 </div>
-<br>
-<hr>
-<br>
-<div id="header" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ebtsam-1&show_icons=true&theme=dracula">
 
-</div>
