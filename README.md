@@ -6,7 +6,7 @@
 
 <h4>Full-Stack Web Developer | JavaScript - Laravel - Angular</h4>
 <div id="badges">
-    <a href="https://www.linkedin.com/in/ebtsam-mamdouh-45b384138/">
+    <a href="https://www.linkedin.com/in/ebtsam-mamdouh-45b384138/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
